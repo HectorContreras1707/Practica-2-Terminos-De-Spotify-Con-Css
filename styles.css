@@ -1,0 +1,16 @@
+.barra{
+    border: solid black;
+    font-size: 15px;
+}
+
+.terminos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.links{
+    color: green;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
